@@ -8,8 +8,8 @@
 
 ## 关于本账户
 
-![GitHub 统计](https://cyrene-stats.xn--8hvv1o.cn/api?username=Cyrene2008&show_icons=true&hide_border=true&bg_color=45,fff0f5,ffe4e1,ffd1dc&title_color=c94c6a&text_color=8b4557&icon_color=ff6b9a&ring_color=ff8fab&include_all_commits=true&locale=cn)
-![常用语言](https://cyrene-stats.xn--8hvv1o.cn/api/top-langs/?username=Cyrene2008&layout=compact&hide_border=true&bg_color=45,fff0f5,ffe4e1,ffd1dc&title_color=c94c6a&text_color=8b4557&icon_color=ff6b9a&langs_count=8&size_weight=0.5&count_weight=0.5&locale=cn)
+![GitHub 统计](https://cyrene-stats.xn--8hvv1o.cn/api?username=Cyrene2008&show_icons=true&hide_border=true&bg_color=45,fff5f8,ffe0eb,ffccd5&title_color=b7476a&text_color=8c4a5e&icon_color=ff5a8a&ring_color=ff85a2&include_all_commits=true&locale=cn)
+![常用语言](https://cyrene-stats.xn--8hvv1o.cn/api/top-langs/?username=Cyrene2008&layout=compact&hide_border=true&bg_color=45,fff0f5,ffe4e1,ffd1dc&title_color=c94c6a&text_color=8b4557&icon_color=ff6b9a&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=cyrene-stats,DanhengServer-OpenSource,sr-message-maker,gemini-playground,openai-gemini&locale=cn)
 
 ### 我的技能栈
 
