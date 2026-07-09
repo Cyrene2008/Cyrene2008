@@ -4,7 +4,7 @@
 
 ## 我的项目
 
-<a href="https://github.com/Cyrene2008/Cyrene-QwenTTS-GUI">![仓库卡片](https://cyrene-stats.xn--8hvv1o.cn/api/pin/?username=Cyrene2008&repo=CyreneNameRoller&hide_border=true&bg_color=45,fff0f5,ffe4e1,ffd1dc&title_color=c94c6a&text_color=8b4557&icon_color=ff6b9a&show_owner=true)</a>
+<a href="https://github.com/Cyrene2008/CyrenNameRoller">![仓库卡片](https://cyrene-stats.xn--8hvv1o.cn/api/pin/?username=Cyrene2008&repo=CyreneNameRoller&hide_border=true&bg_color=45,fff0f5,ffe4e1,ffd1dc&title_color=c94c6a&text_color=8b4557&icon_color=ff6b9a&show_owner=true)</a>
 
 <a href="https://github.com/Cyrene2008/Cyrene-QwenTTS-GUI">![仓库卡片](https://cyrene-stats.xn--8hvv1o.cn/api/pin/?username=Cyrene2008&repo=Cyrene-QwenTTS-GUI&hide_border=true&bg_color=45,fff0f5,ffe4e1,ffd1dc&title_color=c94c6a&text_color=8b4557&icon_color=ff6b9a&show_owner=true)</a>
 
