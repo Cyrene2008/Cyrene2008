@@ -20,5 +20,3 @@
 <a href="#">![技能栈](https://skillicons.dev/icons?i=vue,css,cpp,cs,html,js,python,windows&theme=light&perline=7)</a>
 
 <a href="#">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cyrene2008)</a>
-
-![Top Repos](https://cyrene-stats.xn--8hvv1o.cn/api/top-repos/?username=Cyrene2008&hide_border=true&bg_color=45,fff0f5,ffe4e1,ffd1dc&title_color=c94c6a&text_color=8b4557&icon_color=ff6b9a&locale=cn)
